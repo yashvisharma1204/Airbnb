@@ -1,4 +1,5 @@
 # Airbnb Clone Project
+![image](https://github.com/yashvisharma1204/Airbnb/assets/137611141/80b8f9cd-eeaa-42ad-9e74-1fdeab316e1e)
 
 This is a database project aiming to create a simplified version of the popular accommodation rental platform, Airbnb. It includes SQL scripts to create and populate tables for users, properties, hosts, bookings, transactions, reviews, amenities, and their relationships.
 
